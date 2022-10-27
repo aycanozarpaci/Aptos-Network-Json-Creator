@@ -13,7 +13,7 @@ except FileExistsError:
 print("==================================================")
 for x  in range(int(total_json_number)):
   dictionary = {
-    "name": "Your_Collection_Name_Here # "+str(x+int(start_number))+"",
+    "name": "Your_Nft_Name_Here # "+str(x+int(start_number))+"",
     "description": "Your_Description_Here",
     "attributes": [
       { "trait_type": "Background", "value": "Black" },
