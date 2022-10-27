@@ -64,3 +64,7 @@ After editing your config file, save it and go to cmd (or terminal) and write th
 ![cheetah-aptos](https://user-images.githubusercontent.com/44923151/198417841-0ba1a2d5-38ed-4234-a53e-01928509b0cc.png)
 
 [Cheetah.market](https://cheetah.market/)
+
+Need Help?
+
+Discord ID : ZoRRo#9866
